@@ -13,7 +13,6 @@ import org.opensearch.client.RestClient
 import org.opensearch.commons.notifications.model.ConfigType
 import org.opensearch.commons.notifications.model.NotificationConfig
 import org.opensearch.commons.notifications.model.Slack
-import org.opensearch.commons.rest.SecureRestClientBuilder
 import org.opensearch.notifications.NotificationPlugin
 import org.opensearch.notifications.verifyChannelIdEquals
 import org.opensearch.notifications.verifySingleConfigEquals
